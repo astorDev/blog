@@ -1,0 +1,15 @@
+/Users/egortarasov/trends/2023-06-26/prim/bin/Debug/net8.0/prim
+/Users/egortarasov/trends/2023-06-26/prim/bin/Debug/net8.0/prim.deps.json
+/Users/egortarasov/trends/2023-06-26/prim/bin/Debug/net8.0/prim.runtimeconfig.json
+/Users/egortarasov/trends/2023-06-26/prim/bin/Debug/net8.0/prim.dll
+/Users/egortarasov/trends/2023-06-26/prim/bin/Debug/net8.0/prim.pdb
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/prim.csproj.AssemblyReference.cache
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/prim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/prim.AssemblyInfoInputs.cache
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/prim.AssemblyInfo.cs
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/prim.csproj.CoreCompileInputs.cache
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/prim.dll
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/refint/prim.dll
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/prim.pdb
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/prim.genruntimeconfig.cache
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net8.0/ref/prim.dll

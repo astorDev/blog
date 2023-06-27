@@ -1,0 +1,5 @@
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net7.0/prim.csproj.AssemblyReference.cache
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net7.0/prim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net7.0/prim.AssemblyInfoInputs.cache
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net7.0/prim.AssemblyInfo.cs
+/Users/egortarasov/trends/2023-06-26/prim/obj/Debug/net7.0/prim.csproj.CoreCompileInputs.cache
