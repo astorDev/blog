@@ -14,10 +14,10 @@ The new C# feature you may need 👀
 Continuing our journey on C# 12 features, it's time to talk about the last one in the list so far: optional lambda parameters. So, now you can provide default values for parameters on lambda expressions,
 just like in methods and local functions!
 
-Now, Let's talk about the implication. 🤔  
-At first, I thought that it didn't bring much. Where would you use lambda with some arbitrary arguments, anyway? But diving into the docs, I've found the use case that is indeed very realistic. Minimal APIs! They are all about lambdas. And the feature brings us an elegant way to set a default value for a request parameter.
+Now, let's talk about the implications. 🤔  
+At first, I thought that it didn't bring much. Where would you use lambda with some arbitrary arguments, anyway? But diving into the docs, I've found a use case that is indeed very realistic. Minimal APIs! They revolve around lambdas. And this feature provides an elegant way to set a default value for a request parameter.
 
-Did you also think the feature is kind of useless? 
+Did you also think this feature was kind of useless?
 Do you think the feature will increase your productivity? Hit the 👍 button if you find the post useful in any way, and keep coding!
 
 ![showcase](showcase.png)
