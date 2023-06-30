@@ -27,5 +27,5 @@ However, while surfing the web, I realized that a single class per file seems to
 
 - 📊 One class per file?
     - Yes, always one class per file! 📁
-    - Somewhat, multiple classes in a file in exception cases 📚
+    - Unless very specific case 📚
     - No, I put multiple classes in a file 📦

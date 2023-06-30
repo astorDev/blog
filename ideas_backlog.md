@@ -1,0 +1,2 @@
+- Markdown-based sprint planning
+- The mystical "unit" (in tests)

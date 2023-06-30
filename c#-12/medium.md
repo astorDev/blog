@@ -8,7 +8,7 @@
 
 Primary constructors were introduced in C# 9 along with records. And now, they are making their way to classes and structs! Primary constructor parameters of a class will act as class-scoped parameters rather than class members. This shift can greatly reduce class boilerplate. You can see in the picture below that even in the most trivial example, it saves a whopping 7! lines of code. So, what can go wrong?
 
-Well, as I already said, primary constructors in classes act very differently from primary constructors in records. In records, the constructor parameters become immutable, public class members as properties. And the class's primary constructors are different in literally every aspect. They are mutable, class-scoped, and act as function parameters. So, a lot of people concerns with this inconsistency. In fact, the most liked comment on Nick Chapsas's video regarding this feature is the following:
+Well, as I already said, primary constructors in classes act very differently from primary constructors in records. In records, the constructor parameters become immutable, public class members as properties. And the class's primary constructors are different in literally every aspect. They are mutable, class-scoped, and act as function parameters. So, a lot of people raised concerns with this inconsistency. In fact, the most liked comment on Nick Chapsas's video regarding this feature is the following:
 
 "We're about two C# versions away from a certification exam dedicated solely to object creation and initialization." (c) (YouTube comment)
 
