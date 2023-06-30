@@ -3,8 +3,8 @@
 Ticket types:
 
 - Epic
-- Feature
-- User Story / Product Backlog Item
+- User Story
+- Backlog Item
 - Task
 
 For each of the ticket types, describe best practices for:
@@ -62,9 +62,9 @@ For each of the ticket types, describe best practices for:
 
 - Good Titles: Verb-based description of the exact action:
     - Develop `POST /orders` endpoint
-    - Write docs for `POST /orders` endpoint
-    - Test `POST /orders` endpoint
-    - Deploy an API version with `POST /orders` endpoint
+    - Write docs for the `POST /orders` endpoint
+    - Test the `POST /orders` endpoint
+    - Deploy an API version with the `POST /orders` endpoint
 - Good description: Optional low-level details
     - Links to where to find an example code.
     - Use the logging framework called X.
