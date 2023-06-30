@@ -29,7 +29,7 @@ For each of the ticket types, describe best practices for:
 - Good body: 
     - The motivation behind the changes.
     - Something a user will be able to do with the feature
-    - Any relevant information without a specific structure
+    - Any other relevant information
 
 ## User Story
 
