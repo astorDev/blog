@@ -1,5 +1,3 @@
 - Markdown-based sprint planning
 - The mystical "unit" (in tests)
-- Scrum tickets best practices.
-    - What a ticket title should look like
-    - What a ticket content should look like
+- [Scrum tickets best practices](/drafts/scrum-tickets-look.md)
