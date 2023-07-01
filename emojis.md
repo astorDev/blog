@@ -11,6 +11,7 @@
 :confused:
 :scream:
 :exploding_head:
+:wink:
 
 # Lists
 
